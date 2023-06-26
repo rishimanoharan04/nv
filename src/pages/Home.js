@@ -9,7 +9,7 @@ function Home() {
         <p style={{textAlign: "center"}}>
         Home to all your IT cost-management solutions.
         </p>
-        <div class="center-image">
+        <div className="center-image">
           <img src={Logo} alt="Home"/>
         </div>
     </div>
