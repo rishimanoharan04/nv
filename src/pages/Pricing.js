@@ -13,25 +13,25 @@ function Pricing() {
         Here is your category based breakdown.
         </p>
         <div class="center-image">
-          <img src={Category}/>
+          <img src={Category} alt="My"/>
         </div>
         <p style={{textAlign: "center"}}>
         Here are your most expensive expenditures.
         </p>
         <div class="center-image">
-          <img src={Final}/>
+          <img src={Final}alt="My"/>
         </div>
         <p style={{textAlign: "center"}}>
         Here is your forecast for the next year.
         </p>
         <div class="center-image">
-          <img src={Forecast}/>
+          <img src={Forecast}alt="My"/>
         </div>
         <p style={{textAlign: "center"}}>
         Here is your breakdown by percentage.
         </p>
         <div class="center-image">
-          <img src={Plot}/>
+          <img src={Plot}alt="My"/>
         </div>
     </div>
   )
