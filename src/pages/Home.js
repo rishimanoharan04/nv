@@ -10,7 +10,7 @@ function Home() {
         Home to all your IT cost-management solutions.
         </p>
         <div class="center-image">
-          <img src={Logo}/>
+          <img src={Logo}alt"Home"/>
         </div>
     </div>
   )
