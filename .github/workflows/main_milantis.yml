@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'milantis'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_055069386C9A47628B73A2178FB2719E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9725532263FF4ECD88EBBCE6610E28DD }}
           package: .
