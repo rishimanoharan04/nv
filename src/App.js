@@ -16,6 +16,9 @@ function App() {
     case "/about":
       Component = About
       break
+    default:
+      Component = Pricing
+      break
   }
 
 
